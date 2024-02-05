@@ -11,7 +11,7 @@ A simple color picker implemented in ReactJS with TypeScript, utilizing a canvas
 
 Clone the repository:
 
-# git clone https://github.com/sstyop/canvas-color-picker.git
+### git clone https://github.com/sstyop/canvas-color-picker.git
 
 ## How to Use
 
