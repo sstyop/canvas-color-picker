@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  padding: 1rem;
+  font-family: 'Courier New', Courier, monospace;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #c209c1;
+  ;
+}
+
+* {
+  margin: 0;
+}
+
+::-webkit-scrollbar {
+  width: 0.5rem;
+  height: 0.5rem;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 0.5rem;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #c209c1;
+  border-radius: 0.5rem;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
